@@ -1,10 +1,10 @@
-//
-//  ViewController.swift
-//  Intermediate-User-Interactions-Week-3
-//
-//  Created by YASH SOMPURA on 20/09/17.
-//  Copyright © 2017 YASH SOMPURA. All rights reserved.
-//
+/*
+ * Name: Yashkumar Sompura
+ * Date: September 20, 2017
+ * Student ID: 300967186
+ * Description: Intermediate User Interaction Demo
+ * Version: 0.1 - Built Basic UI
+ */
 
 import UIKit
 
@@ -14,12 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 
 }
 
